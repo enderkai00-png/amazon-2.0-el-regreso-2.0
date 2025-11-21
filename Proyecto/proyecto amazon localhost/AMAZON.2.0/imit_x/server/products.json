@@ -1,0 +1,41 @@
+[
+  {
+    "id": "P3001",
+    "title": "Smartphone Galaxy X",
+    "price": 59999,
+    "description": "Smartphone de última generación con pantalla AMOLED",
+    "category": "Electrónica",
+    "stock": 50,
+    "siteEnabled": {
+      "DE": true,
+      "ES": true,
+      "IT": true
+    }
+  },
+  {
+    "id": "P3002",
+    "title": "Novela 'El Susurro'",
+    "price": 18.9,
+    "description": "Novela bestseller de misterio",
+    "category": "Libros",
+    "stock": 100,
+    "siteEnabled": {
+      "DE": false,
+      "ES": true,
+      "IT": true
+    }
+  },
+  {
+    "id": "P3003",
+    "title": "Zapatillas Running Pro",
+    "price": 89.99,
+    "description": "Zapatillas deportivas profesionales",
+    "category": "Moda",
+    "stock": 75,
+    "siteEnabled": {
+      "DE": true,
+      "ES": true,
+      "IT": false
+    }
+  }
+]
